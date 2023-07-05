@@ -51,6 +51,7 @@ form{
 }
 
 label{
+    font-size: 1.125em;
     display: block;
     margin: 0.5rem 0;
 }
